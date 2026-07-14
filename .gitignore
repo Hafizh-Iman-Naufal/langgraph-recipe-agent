@@ -13,6 +13,7 @@ env/
 .env
 .env.local
 .env.*.local
+.git-credentials
 
 # IDE and editor files
 .vscode/
