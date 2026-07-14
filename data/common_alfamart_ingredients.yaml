@@ -1,0 +1,51 @@
+carbs:
+  - mie instan
+  - roti tawar
+  - nasi instan
+  - kentang instan
+  - bihun instan
+  - oatmeal instan
+
+protein:
+  - telur
+  - sosis
+  - nugget
+  - tuna kaleng
+  - susu
+  - keju slice
+  - keju parut
+  - ham
+
+vegetables:
+  - selada
+  - tomat
+  - timun
+  - wortel
+  - sayur beku (kacang polong, jagung, wortel)
+  - bawang bombay
+  - bawang putih
+
+seasoning:
+  - saus sambal
+  - kecap manis
+  - mayonnaise
+  - lada
+  - garam
+  - gula
+  - minyak goreng
+  - mentega
+  - margarin
+
+drinks:
+  - susu UHT
+  - yogurt
+  - kopi instan
+  - teh botol
+  - cokelat bubuk
+  - sirup
+
+snacks:
+  - biskuit
+  - keripik
+  - cokelat batang
+  - permen
